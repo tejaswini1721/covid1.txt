@@ -1,0 +1,439 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<img src="govindia.png"  alt="Government of India"  sizes="32*32">
+<title>MoHFW | Home</title>
+<body style="background-color:pink">
+</body>
+
+
+<a href="https://india.gov.in" class="logo-flag" target="_blank" height="10" width="20">
+		<img src="logo-flag.png" alt="India Flag" height="20" width="30">
+		<span>India</span>
+		</a>
+		<div class="accessibility-menu">
+			<ul>
+
+<a href="#" aria-label="Social Media Links" title="Social Media Links">
+					<span class="fa fa-facebook" aria-hidden="true"></span>
+					<span class="fa fa-twitter" aria-hidden="true"></span>
+					<span class="fa fa-youtube-play" aria-hidden="true"></span>
+					</a>
+				
+
+<header class="header-section">
+<div class="header-bar">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 text-center">
+			<div class="site-meta">
+		               <marquee>For any technical enquiry with respect to COVID19, you may kindly email on <strong><a                                                 href="mailto:technicalquery.covid19@gov.in">technicalquery.covid19@gov.in</marquee></a></strong> 
+			</div>
+			</div>
+		</div>
+	</div>
+</div> 
+</header> 				
+
+
+<div id="main-content" class="">
+
+<section id="site-dashboard" class="site-stats">
+
+	<div class="container">
+	<div class="row">
+	<div class="col-xs-12">
+	<div class="site-stats-count">
+		<ul>
+		<li class="bg-blue">
+		<img src="activecase.png" alt="Active Status">
+		<strong>61149</strong>
+		<span>Active Cases</span>
+		</li>
+		<li class="bg-green">
+		<img src="discharged.png" alt="Inactive Status">
+		<strong>42297</strong>
+		<span class="mob-hide">Cured / Discharged </span>
+		<span class="mob-show">Cured/ </span>
+		<span class="mob-show">Discharged </span>
+		</li>								
+		<li class="bg-red">
+		<img src="deaths.png" alt="Death Status">
+		<strong>3303</strong>
+		<span>Deaths  </span>
+		
+		</li>
+		
+		</ul>
+
+<br>
+<div class="header-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 text-center">
+			<div class="site-meta">
+				<strong>Helpline Number :</strong>+91-11-23978046
+			</div>
+			<div class="site-meta">
+				<strong>Toll Free :</strong> 1075
+			</div>
+			<div class="site-meta">
+				<strong>Helpline Email ID :</strong> <a href="mailto:ncov2019@gov.in">ncov2019@gov.in </a>
+			</div>
+						</div>
+		</div>
+	</div>
+</div>  
+
+
+<section id="state-data" class="site-update">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h2><a class="open-table" href="#"> COVID-19 Statewise Status</a></h2>
+<div class="data-table table-responsive">		
+<table border="1" cellspacing="1" cellpadding="1" class="table table-striped" style="font-weight:bold">
+<thead>
+	<tr>
+	<th><strong>S. No.</strong></th>
+	<th><strong>Name of State / UT</strong></th>
+	<th><strong>Total Confirmed cases* </strong></th>                              
+	<th><strong>Cured/Discharged/Migrated</strong></th>
+	<th><strong>Deaths**</strong></th>
+	</tr>
+</thead>	
+<tbody>
+<tr>
+	<td>1</td>
+	<td>Andaman and Nicobar Islands</td>
+	<td>33</td>
+	<td>33</td>
+	<td>0</td>
+	</tr>
+	<tr>
+	
+	<td>2</td>
+	<td>Andhra Pradesh</td>
+	<td>2532</td>
+	<td>1621</td>
+	<td>52</td>
+	</tr>
+	
+	
+	<tr>
+	<td>3</td>
+	<td>Arunachal Pradesh</td>
+	<td>1</td>
+	<td>1</td>
+	<td>0</td>
+	</tr>
+	
+	<tr>
+	<td>4</td>
+	<td>Assam</td>
+	<td>142</td>
+	<td>41</td>
+	<td>4</td>
+	</tr>
+	
+	<tr>
+	<td>5</td>
+	<td>Bihar</td>
+	<td>1498</td>
+	<td>534</td>
+	<td>9</td>
+	</tr>
+	
+	<tr>
+	<td>6</td>
+	<td>Chandigarh</td>
+	<td>200</td>
+	<td>57</td>
+	<td>3</td>
+	</tr>
+	
+	<tr>
+	<td>7</td>
+	<td>Chhattisgarh</td>
+	<td>101</td>
+	<td>59</td>
+	<td>0</td>
+	</tr>
+	<tr>
+	<td>8</td>
+	<td>Dadar Nagar Haveli</td>
+	<td>1</td>
+	<td>0</td>
+	<td>0</td>
+	</tr>
+	
+	<tr>
+	<td>9</td>
+	<td>Delhi</td>
+	<td>10554</td>
+	<td>4750</td>
+	<td>168</td>
+	</tr>
+	
+	<tr>
+	<td>10</td>
+	<td>Goa</td>
+	<td>46</td>
+	<td>7</td>
+	<td>0</td>
+	</tr>
+	
+	<tr>
+	<td>11</td>
+	<td>Gujarat</td>
+	<td>12140</td>
+	<td>5043</td>
+	<td>719</td>
+	</tr>
+	
+	<tr>
+	<td>12</td>
+	<td>Haryana</td>
+	<td>964</td>
+	<td>627</td>
+	<td>14</td>
+	</tr>
+	
+	<tr>
+	<td>13</td>
+	<td>Himachal Pradesh</td>
+	<td>92</td>
+	<td>47</td>
+	<td>3</td>
+	</tr>
+	
+	<tr>
+	<td>14</td>
+	<td>Jammu and Kashmir</td>
+	<td>1317</td>
+	<td>653</td>
+	<td>17</td>
+	</tr>
+	<tr>
+	<td>15</td>
+	<td>Jharkhand</td>
+	<td>231</td>
+	<td>127</td>
+	<td>3</td>
+	</tr>
+	
+	<tr>
+	<td>16</td>
+	<td>Karnataka</td>
+	<td>1397</td>
+	<td>544</td>
+	<td>40</td>
+	</tr>
+	
+	<tr>
+	<td>17</td>
+	<td>Kerala</td>
+	<td>642</td>
+	<td>497</td>
+	<td>4</td>
+	</tr>
+	
+	<tr>
+	<td>18</td>
+	<td>Ladakh</td>
+	<td>43</td>
+	<td>43</td>
+	<td>0</td>
+	</tr>
+
+	<tr>
+	<td>19</td>
+	<td>Madhya Pradesh</td>
+	<td>5465</td>
+	<td>2630</td>
+	<td>258</td>
+	</tr>
+	
+	<tr>
+	<td>20</td>
+	<td>Maharashtra</td>
+	<td>37136</td>
+	<td>9639</td>
+	<td>1325</td>
+	</tr>
+	
+	<tr>
+	<td>21</td>
+	<td>Manipur</td>
+	<td>9</td>
+	<td>2</td>
+	<td>0</td>
+	</tr>
+	<tr>
+	<td>22</td>
+	<td>Meghalaya</td>
+	<td>13</td>
+	<td>12</td>
+	<td>1</td>
+	</tr>
+	
+	<tr>
+	<td>23</td>
+	<td>Mizoram</td>
+	<td>1</td>
+	<td>1</td>
+	<td>0</td>
+	</tr>
+	
+
+	<tr>
+	<td>24</td>
+	<td>Odisha</td>
+	<td>978</td>
+	<td>277</td>
+	<td>5</td>
+	</tr>
+
+	<tr>
+	<td>25</td>
+	<td>Puducherry</td>
+	<td>18</td>
+	<td>9</td>
+	<td>1</td>
+	</tr>
+
+	<tr>
+	<td>26</td>
+	<td>Punjab</td>
+	<td>2002</td>
+	<td>1642</td>
+	<td>38</td>
+	</tr>
+	
+	<tr>
+	<td>27</td>
+	<td>Rajasthan</td>
+	<td>5845</td>
+	<td>3337</td>
+	<td>143</td>
+	</tr>
+
+	<tr>
+	<td>28</td>
+	<td>Tamil Nadu</td>
+	<td>12448</td>
+	<td>4895</td>
+	<td>84</td>
+	</tr>
+	
+	<tr>
+	<td>29</td>
+	<td>Telengana</td>
+	<td>1634</td>
+	<td>1010</td>
+	<td>38</td>
+	</tr>
+	
+	<tr>
+	<td>30</td>
+	<td>Tripura</td>
+	<td>173</td>
+	<td>116</td>
+	<td>0</td>
+	</tr>
+	
+	
+	
+	<tr>
+	<td>31</td>
+	<td>Uttarakhand</td>
+	<td>111</td>
+	<td>52</td>
+	<td>1</td>
+	</tr>
+	
+	<tr>
+	<td>32</td>
+	<td>Uttar Pradesh</td>
+	<td>4926</td>
+	<td>2918</td>
+	<td>123</td>
+	</tr>                    
+	
+	<tr>
+	<td>33</td>
+	<td>West Bengal</td>
+	<td>2961</td>
+	<td>1074</td>
+	<td>250</td>
+	</tr>
+	<tr>
+	<td></td>
+	<td>Cases being reassigned to states</td>
+	<td>1096</td>
+	<td></td>
+	<td></td>
+	</tr>
+	
+</body>
+
+<body>
+<b>Detail Question and Answers on COVID-19 for Public</b> <br>
+<br>
+<br>
+<b>What is corona virus ?</b><br>
+Corona viruses are a large family of viruses which may cause illness
+in animals or humans. In humans, several coronaviruses are known
+to cause respiratory infections ranging from the common cold to more
+severe diseases such as Middle East Respiratory Syndrome (MERS)
+and Severe Acute Respiratory Syndrome (SARS). The most recently
+discovered coronavirus causes coronavirus disease COVID-19. 
+
+<br>
+<br>
+
+<b>What is COVID-19?</b><br>
+
+COVID-19 is the infectious disease caused by the most recently
+discovered corona virus. This new virus and disease were unknown
+before the outbreak began in Wuhan, China, in December 2019.
+
+<br>
+<br>
+
+<b>What are the symptoms of COVID-19 ?</b><br>
+The most common symptoms of COVID-19 are fever, tiredness, and
+dry cough. Some patients may have aches and pains, nasal
+congestion, runny nose, sore throat or diarrhea. These symptoms are
+usually mild and begin gradually. Some people become infected but
+don’t develop any symptoms and don't feel unwell. Most people
+(about 80%) recover from the disease without needing special
+treatment. Around 1 out of every 6 people who gets COVID-19
+becomes seriously ill and develops difficulty breathing. Older people,
+and those with underlying medical problems like high blood pressure,
+heart problems or diabetes, are more likely to develop serious illness.
+People with fever, cough and difficulty breathing should seek medical
+attention. 
+<br>
+<br>
+
+
+<b>How does COVID-19 spread?</b><br>
+People can catch COVID-19 from others who have the virus. The
+disease can spread from person to person through small droplets from
+the nose or mouth which are spread when a person with COVID-19
+coughs or exhales.These droplets land on objects and surfaces
+around the person. Other people then catch COVID-19 by touching
+these objects or surfaces, then touching their eyes, nose or mouth.
+People can also catch COVID-19 if they breathe in droplets from a
+person with COVID-19 who coughs out or exhales droplets. This is
+why it is important to stay more than 1 meter (3 feet) away from a person 
+who is sick.
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
